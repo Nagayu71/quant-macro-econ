@@ -1,3 +1,8 @@
+ch7_ver2.ipynb
+
+# Mac OS
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
